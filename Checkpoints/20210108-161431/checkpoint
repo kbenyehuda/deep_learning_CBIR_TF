@@ -1,0 +1,2 @@
+model_checkpoint_path: "encoder-cp-0122.ckpt"
+all_model_checkpoint_paths: "encoder-cp-0122.ckpt"
